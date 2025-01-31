@@ -1,0 +1,34 @@
+#las siguientes extensiones carpetas y/o archivo no seran mostradas publicamente en el proyecto sinh embargo no inhiben lo que se contiene por loq ue todo lo contenido seguira funcionando"
+# Archivos objeto y binarios 
+*.o
+*.out
+*.exe 
+# Archivos de depuracion 
+*.dSYM/
+*.pdb
+*.idb
+# Librerias
+*.a 
+*.so
+*.dll
+# Archivos de dependencias
+*.d 
+# Archivos de configuracion local
+config.h
+local_config.h
+# Archivos de logs y temporales
+*.log
+*.tmp 
+*.swp 
+*.swo 
+#Archivos de IDE y editores
+.vscode/
+.idea/
+*.vcxproj
+*.sln
+*.project
+*.user 
+*.suo 
+#Archivos de sistema
+.DS_Store
+Thumbs.db
