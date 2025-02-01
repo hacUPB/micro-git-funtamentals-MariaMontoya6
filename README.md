@@ -8,7 +8,7 @@
 
 <font color="#FFFF99">
 
-## <center> ** Descripcion del proyecto**
+## <center> Descripcion del proyecto
 
 <font color="white">
 
