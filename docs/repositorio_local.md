@@ -1,4 +1,4 @@
-## ¿Como crear un repositorio local con comando de GiT?
+## ¿Como crear un repositorio local con comando de Git?
 
 Se pretende explicar el proceso para crear un repositorio local con comandos de Git en **GITBASH**
 
