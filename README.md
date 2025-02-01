@@ -82,5 +82,23 @@ Este proyecto esta desarrollado en un entorno de **GIT** Y **GIT HUB**; para pod
 
 <font color="white">
 
-Aca podras evidenciar toda la informacion basica de los comandos de control, Git y GitBash, 
+Aca podras evidenciar toda la informacion basica de los comandos de control, Git y GitBash conetnidas en los siguientes documentos:
 
+ - `uso_consola.md`: Describe los conceptos aprendidos sobre cómo usar la consola para navegar y crear directorios y archivos.
+
+ - `repositorio_local.md`: Explica cómo crear un repositorio local con comandos de Git.
+ 
+- `repositorio_remoto.md`: Detalla el proceso para crear un repositorio remoto en GitHub y sincronizarlo con el repositorio local.
+
+- `Conclusiones`: Se detallara la importancia del control de version y usar las herramienrtas, reflejando los aprendizajes
+
+
+| Documento | Enlace |
+|--------------|--------------|
+| Repositorio_local | [Repositorio_local](/docs/repositorio_local.md)|
+| Repositorio_remoto| [Repositrio_remoto](/docs/repositorio-remoto.md) |
+|Uso_Consola| [Uso_consola](/docs/uso_consola.md) |
+|Conclusiones | [Conclusiones](/docs/Conclusiones.md)
+
+
+[Texto del enlace](URL)
