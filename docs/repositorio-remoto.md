@@ -3,6 +3,11 @@
 ### 1. Crear un repositorio en GitHub
 
 1. **Inicia sesión en GitHub**: Ve a GitHub y accede con tu cuenta.
+
+<img src="../images/Github.png" alt="Texto alternativo" width="200" height="200">
+
+[Imagen Github](https://www.flaticon.es/icono-gratis/logotipo-de-github_25231)
+
 2. **Crear un nuevo repositorio**: Haz clic en el icono de tu perfil en la esquina superior derecha y selecciona "Your repositories".Luego, haz clic en "New" para crear un nuevo repositorio y rellena la informacion necesaria. 
 
 ### 2. **Inicializar tu repositorio local**
