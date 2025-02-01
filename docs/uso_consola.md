@@ -2,7 +2,9 @@
 
 En Gitbash que para algunos dispositivo sera la consola de comandos; se tienen comandos basicos que permiten hacer variedad de acciones, cambios entre otros. 
 
-<img src="../images/com.jpg" alt="Texto alternativo" width="300" height="200">
+<img src="../images/com.jpg" alt="Texto alternativo" width="250" height="150">
+
+[Imagen consola de comandos](https://mascandobits.es/tips/copy-pega-en-la-consola-de-comando-de-windows/)
 
 Alguno de los principales son: 
 

@@ -7,6 +7,8 @@ Esta es una aplicacion que puede no estar incorporada en todos las versiones de 
 
 <img src="../images/Gb.png" alt="Texto alternativo" width="200" height="200">
 
+[Imagen Gitbash](https://worldvectorlogo.com/es/logo/git-bash)
+
 ### 2. Navega hasta la carpeta donde deseas crear el repositorio 
 
 Usa el comando cd (change directory) para moverte a la carpeta donde quieres crear el repositorio.
