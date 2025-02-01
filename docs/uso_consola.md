@@ -1,4 +1,4 @@
-## ¿Como usar la consola basica de Git en **GITBASH** (consola de comandos)
+## <center>**¿Como usar la consola basica de Git en **GITBASH** (consola de comandos)**<center>
 
 En Gitbash que para algunos dispositivo sera la consola de comandos; se tienen comandos basicos que permiten hacer variedad de acciones, cambios entre otros. 
 
@@ -69,5 +69,5 @@ El comando pwd significa "Print Working Directory", y muestra la ruta completa d
 
  <font color="#ADD8E6">
 
-## **Lo has logrado ahora puedes jugar y moverte en el explorador de archivos con la consola de comandos**
+## <center>**Lo has logrado ahora puedes jugar y moverte en el explorador de archivos con la consola de comandos**<center>
 

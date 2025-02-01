@@ -1,4 +1,4 @@
-## ¿Como crear un repositorio local con comando de Git?
+## <center> **¿Como crear un repositorio local con comando de Git?**<center>
 
 Se pretende explicar el proceso para crear un repositorio local con comandos de Git en **GITBASH**
 
@@ -48,4 +48,4 @@ Asegúrate de reemplazar el mensaje con algo significativo, como "Primer commit"
 
 <font color="#ADD8E6">
 
-## **Lo has logrado ahora puedes desarrollar tu proyecto de manera local y tener un control de version del mismo**
+## <center>**Lo has logrado ahora puedes desarrollar tu proyecto de manera local y tener un control de version del mismo**<center>

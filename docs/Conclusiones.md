@@ -1,10 +1,11 @@
-## **CONCLUSIONES**
+## <center>**CONCLUSIONES**<center>
 
 Se pretende abordar los principales conceptos aprendidos en el proceso en ello incluyendo recomendaciones y algunos conceptos
 
-### **Importancia del uso del control de versiones**
+### <center>**Importancia del uso del control de versiones**<center>
 
 <img src="../images/control.png" alt="Texto alternativo" width="200" height="150">
+
 
 [creditos imagen](https://inlocrobotics.com/es/sistema-de-control-de-versiones/)
 
@@ -14,7 +15,7 @@ Se pretende abordar los principales conceptos aprendidos en el proceso en ello i
 
 3. **Rastreabilidad y transparencia**: Cada cambio realizado en un proyecto es registrado con una descripción y el autor que lo realizó, lo que proporciona una transparencia total sobre el proceso de desarrollo.
 
-### **Razones para hacer push constantemente al trabajar de forma local**
+### <center>**Razones para hacer push constantemente al trabajar de forma local**<center>
 
 <img src="../images/pushpull.png" alt="Texto alternativo" width="260" height="200">
 
@@ -27,7 +28,7 @@ Se pretende abordar los principales conceptos aprendidos en el proceso en ello i
 
 3. **Facilita la revisión del código** : Si estás trabajando en un equipo, hacer push constantemente permite que otros revisen tu trabajo, sugieran mejoras y realicen pruebas sobre las últimas modificaciones. Esto mejora la calidad del código y permite un proceso de retroalimentación constante
 
-### **Recomendaciones sobre el uso de Git y GitHub**
+### <center>**Recomendaciones sobre el uso de Git y GitHub**<center>
 
 <img src="../images/reco.jpg" alt="Texto alternativo" width="250" height="150">
 
@@ -42,6 +43,6 @@ Se pretende abordar los principales conceptos aprendidos en el proceso en ello i
 
 4. **Revisar y probar antes de hacer push**: Antes de realizar un push, asegúrate de que todo tu trabajo esté correcto y probado. Hacerlo en pequeñas dosis (con commits frecuentes) es más manejable que hacer cambios masivos y desorganizados que podrían causar problemas.
 
-### **Recomendacion personal**
+### <center>**Recomendacion personal**<center>
 
 Cometer fallos es parte del aprendizaje, pero la clave está en reconocerlos, analizarlos y ajustar el enfoque en consecuencia. Al usar herramientas como Git y GitHub, hay que comprender la importancia de seguir buenas prácticas desde el inicio, como hacer commits y push de manera frecuente,mantener un historial claro hara del desarrollo de tu proyecto algo mas facil. 

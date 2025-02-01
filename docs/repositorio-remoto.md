@@ -1,4 +1,4 @@
-## ¿Como crear un repositorio remoto en GitHub y sincronizarlo con el repositorio local?
+## <center>**¿Como crear un repositorio remoto en GitHub y sincronizarlo con el repositorio local?**<center>
 
 ### 1. Crear un repositorio en GitHub
 
@@ -66,5 +66,5 @@ Esto crea un repositorio vacio en tu carpeta de proyecto
 
 <font color="#ADD8E6">
 
-## **Lo has logrado ahora puedes guardar tu proyecto en la nube y desarrollarlo local**
+## <center>**Lo has logrado ahora puedes guardar tu proyecto en la nube y desarrollarlo local**<center>
 
