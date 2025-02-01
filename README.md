@@ -1,13 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_svqiCDi)
 
-# <mark>**Bitácora**</mark>
-## Microprocesadores
-### *Mariajose Montoya*
-#### 507335
+
+# <center><mark>**Bitácora**</mark>
+## <center> Microprocesadores
+### <center>*Mariajose Montoya*
+#### <center> 507335
 
 <font color="#FFFF99">
 
-## Descripcion del proyecto
+## <center> ** Descripcion del proyecto**
 
 <font color="white">
 
@@ -52,7 +53,7 @@ Este proyecto esta desarrollado en un entorno de **GIT** Y **GIT HUB**; para pod
 
 <font color="#D8A7FF">
 
-## Pasos para clonar y ejecutar el proyecto
+## <center>Pasos para clonar y ejecutar el proyecto<center>
 
 <font color="white">
 
@@ -83,7 +84,7 @@ Este proyecto esta desarrollado en un entorno de **GIT** Y **GIT HUB**; para pod
 
 <font color="#FF69B4">
 
-## Tabla de contenido a la carpeta docs
+## <center>Tabla de contenido a la carpeta docs<center>
 
 <font color="white">
 
