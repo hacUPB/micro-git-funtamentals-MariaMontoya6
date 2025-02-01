@@ -4,6 +4,10 @@ Se pretende abordar los principales conceptos aprendidos en el proceso en ello i
 
 ### **Importancia del uso del control de versiones**
 
+<img src="../images/control.png" alt="Texto alternativo" width="200" height="150">
+
+[creditos imagen](https://inlocrobotics.com/es/sistema-de-control-de-versiones/)
+
 1. **Seguridad y protección del trabajo** : El control de versiones permite hacer un seguimiento de todos los cambios realizados en un proyecto. Esto no solo ayuda a mantener un historial claro y detallado de cada modificación, sino que también asegura que, en caso de errores o problemas, se pueda revertir fácilmente a una versión anterior sin perder trabajo valioso.
 
 2. **Colaboración eficiente**: En equipos de desarrollo, el control de versiones permite que múltiples personas trabajen de forma simultánea sin sobrescribir el trabajo de los demás. 
@@ -12,6 +16,11 @@ Se pretende abordar los principales conceptos aprendidos en el proceso en ello i
 
 ### **Razones para hacer push constantemente al trabajar de forma local**
 
+<img src="../images/pushpull.png" alt="Texto alternativo" width="260" height="200">
+
+[Creditos imagen](https://leninner.medium.com/gu%C3%ADa-sencilla-para-trabajar-con-git-push-y-git-pull-785e0bca60cc)
+
+
 1. **Copia de seguridad constante**: Al hacer push frecuentemente, se asegura que tu trabajo está respaldado en el repositorio remoto (GitHub). Si el equipo o tu computadora sufre un daño, siempre tendrás acceso a tu último estado sin perder avances importantes.
 
 2. **Prevención de conflictos**:Mantener todo actualizado facilita la integración continua y el desarrollo fluido,lo que reduce significativamente el riesgo de tener repositorios dentro de otros, que tendrian gravbes consecuencias como perder todos los commits 
@@ -19,6 +28,11 @@ Se pretende abordar los principales conceptos aprendidos en el proceso en ello i
 3. **Facilita la revisión del código** : Si estás trabajando en un equipo, hacer push constantemente permite que otros revisen tu trabajo, sugieran mejoras y realicen pruebas sobre las últimas modificaciones. Esto mejora la calidad del código y permite un proceso de retroalimentación constante
 
 ### **Recomendaciones sobre el uso de Git y GitHub**
+
+<img src="../images/reco.jpg" alt="Texto alternativo" width="250" height="150">
+
+[Creditos imagen](https://blog.4d.com/es/project-database-git-commit-pull-push-more/)
+
 
 1. **Usar ramas de desarrollo (branches)**: Mantén tu trabajo aislado en ramas para evitar que cambios incompletos o experimentales afecten la rama principal (main o master). Así podrás gestionar diferentes características del proyecto de forma independiente y fusionarlas con seguridad cuando estén listas.
 
