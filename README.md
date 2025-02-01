@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_svqiCDi)
+
 # <mark>**Bitácora**</mark>
 ## Microprocesadores
 ### *Mariajose Montoya*
@@ -14,12 +15,13 @@ Este proyecto esta desarrollado en un entorno de **GIT** Y **GIT HUB**; para pod
 
 1. **Git** es un sistema de control de versiones distribuido que permite a los desarrolladores llevar un seguimiento de los cambios en el código, trabajar con ramas, y deshacer cambios. Permite trabajar sin conexión y gestionar el historial de un proyecto de manera local.
 
-<img src="../images/Git.png" alt="Texto alternativo" width="200" height="200">
+
+<img src="./images/Git.png" alt="Texto alternativo" width="200" height="200">
 
 
 2. **GitHub** es una plataforma en línea que usa Git para almacenar repositorios en la nube. Facilita la colaboración, permite gestionar problemas (issues), revisar cambios (pull requests) y automatizar tareas con herramientas de CI/CD. Además, ofrece opciones de privacidad y acceso controlado.
 
-<img src="../images/Github.png" alt="Texto alternativo" width="200" height="200">
+<img src="./images/Github.png" alt="Texto alternativo" width="200" height="200">
 
 ### Factores clave:
 
